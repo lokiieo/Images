@@ -1,2 +1,4 @@
+<div align="center">
 # Images
-Image hub for quick access
+</div>
+Image hub for quick access to simple icons
